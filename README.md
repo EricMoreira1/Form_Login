@@ -1,6 +1,12 @@
 # Página de Login
 
-# Tecnologias utilizadas 
+## Descrição
+Este projeto pocura emular o sistema de login de um site para o aprendizado do desnvolvedor
+
+## Fontes utilizadas 
+*`Bootstrap5`<br>
+
+## Tecnologias utilizadas 
 *`HTML5`<br>
 *`CSS3`<br>
 *`Git`<br>
