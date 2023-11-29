@@ -19,3 +19,5 @@ Este projeto pocura emular o sistema de login de um site para o aprendizado do d
 Fundamentos de Desenvolvimento Web:<br>
 Professor [Leonardo](https://github.com/leonardorochamarista)<br>
 
+# Autores
+Eric Mendes Moreira
