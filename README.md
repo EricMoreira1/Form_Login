@@ -13,7 +13,7 @@ Este projeto pocura emular o sistema de login de um site para o aprendizado do d
 *`Github`<br>
 
 ## Projeto
-![Capa do projeto](image/Captura de tela 2023-11-29 081058.png)<br>
+![Capa do projeto](images/capa.png)<br>
 
 ## Ferramentas utilizadas 
 * `VScode` 
